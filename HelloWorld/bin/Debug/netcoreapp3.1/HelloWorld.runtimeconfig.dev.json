@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/kuma/.dotnet/store/|arch|/|tfm|",
+      "/Users/kuma/.nuget/packages"
+    ]
+  }
+}
